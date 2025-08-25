@@ -19,10 +19,3 @@ The **Car KPI Dashboard** is a full-stack project designed to monitor and visual
 - **Database:** MySQL  
 - **Other Tools:** Chart.js / D3.js (for visualization)  
 
----
-
-## 🚀 Installation & Setup
-1. Clone this repository  
-   ```bash
-   git clone https://github.com/your-username/car-kpi-dashboard.git
-   cd car-kpi-dashboard
